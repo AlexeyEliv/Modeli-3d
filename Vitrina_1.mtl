@@ -1,0 +1,35 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.1.85023495)
+
+newmtl МДФ 16мм RAL
+Kd 80 108 134
+illum 1
+
+newmtl Карниз
+Kd 233 224 210
+illum 1
+
+newmtl 19x0,4 Слоновая кость 514 PE
+illum 1
+map_Kd Vitrina_1_textures\default.bmp
+
+newmtl 16, Камель (U216 ST9)
+Kd 233 224 210
+illum 1
+
+newmtl 19x2,0 Слоновая кость 514 PE
+illum 1
+map_Kd Vitrina_1_textures\default.bmp
+
+newmtl МДФ 19мм RAL 9003
+Kd 233 224 210
+illum 1
+
+newmtl МДФ 22 мм RAL 7036
+Kd 233 224 210
+illum 1
+
+newmtl Металл
+Kd 128 128 128
+illum 1
+
